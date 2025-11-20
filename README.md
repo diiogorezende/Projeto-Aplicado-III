@@ -3,7 +3,7 @@
 
 Este projeto tem como objetivo desenvolver um **sistema de recomendação de cursos acessíveis da plataforma Udemy**, voltado especialmente para **estudantes de baixa renda**, utilizando técnicas modernas de machine learning para análise semântica de textos.
 
-Link da apresentação no youtube: https://www.youtube.com/watch?v=2lFzmb2ZXtk
+### Link da apresentação no youtube: https://www.youtube.com/watch?v=2lFzmb2ZXtk
 ---
 
 ## 📌 1. Contexto
